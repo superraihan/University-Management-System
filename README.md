@@ -1,7 +1,5 @@
 # University Management System (UMS)
 
-https://github.com/user-attachments/assets/023ac2e0-bb94-4022-90e5-72a467fd4b2a
-
 # Introduction
 
 The University Management System is a desktop-based application built using C# and Windows Forms. This system streamlines university operations by offering features for managing student records, faculty profiles, courses, fee collection, and academic reports.
