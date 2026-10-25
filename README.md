@@ -9,9 +9,7 @@ With role-based access, admins can manage university operations, faculty members
 # Project Team
 
 1) MD. RAIHAN KABIR NIBIR (22-49956-3)
-2) SADIA AFRIN (22-49854-3)
-3) MAHARIN BINTA KIBRIA (22-49593-3)
-4) TITHI AKTER (23-50836-1)
+
 
 # Faculty
 KAZI SADIA
